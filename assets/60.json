@@ -1,0 +1,42 @@
+{
+  "name": "SOL Vape #60",
+  "symbol": "SVP",
+  "description": "Remember to replace this description",
+  "seller_fee_basis_points": 800,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 60,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Vape body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Vape head",
+      "value": "Iron Tobacco"
+    },
+    {
+      "trait_type": "Vape light",
+      "value": "sky blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AaEPVE4EgoxMCZm4uQvADsoj4NFBdom75KMQKVNGRg48",
+        "share": 100
+      }
+    ]
+  }
+}
